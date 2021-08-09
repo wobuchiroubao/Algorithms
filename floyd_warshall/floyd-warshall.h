@@ -1,5 +1,5 @@
-#ifndef FLOID_UORSHALL_H
-#define FLOID_UORSHALL_H
+#ifndef FLOYD_WARSHALL_H
+#define FLOYD_WARSHALL_H
 
 #include <stdio.h>
 

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <limits.h>
 
-#include "algoritm_prima.h"
+#include "prims_algorithm.h"
 
 //----------------------
 

@@ -7,7 +7,7 @@
 #include <limits.h>
 
 #include "../stack/stack.h"
-#include "deikstra_algoritm.h"
+#include "dijkstra_algorithm.h"
 
 //------------------------
 

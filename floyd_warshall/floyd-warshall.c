@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <limits.h>
 
-#include "floid-uorshall.h"
+#include "floyd-warshall.h"
 
 //----------------------
 

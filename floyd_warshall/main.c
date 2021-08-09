@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "floid-uorshall.h"
+#include "floyd-warshall.h"
 
 int main(int argc, char** argv)
 {

@@ -2,7 +2,7 @@
 // example: [20:30; 21:00)
 #include <stdlib.h>
 
-#include "greedy_algoritm.h"
+#include "greedy_algorithm.h"
 
 //++++++++++++++++++++++++
 

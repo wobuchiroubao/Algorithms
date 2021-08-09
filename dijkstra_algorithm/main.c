@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "deikstra_algoritm.h"
+#include "dijkstra_algorithm.h"
 
 int main(int argc, char** argv)
 {

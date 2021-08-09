@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "algoritm_prima.h"
+#include "prims_algorithm.h"
 
 int main(int argc, char** argv)
 {

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include "krascal_algoritm.h"
+#include "krascal_algorithm.h"
 
 int main(int argc, char** argv)
 {

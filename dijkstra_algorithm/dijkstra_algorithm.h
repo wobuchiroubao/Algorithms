@@ -1,5 +1,5 @@
-#ifndef DEIKSTRA_ALG_H
-#define DEIKSTRA_ALG_H
+#ifndef DIJKSTRA_ALG_H
+#define DIJKSTRA_ALG_H
 
 #include <stdio.h>
 

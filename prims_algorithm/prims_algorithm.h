@@ -1,5 +1,5 @@
-#ifndef ALG_PRIMA_H
-#define ALG_PRIMA_H
+#ifndef PRIMS_ALG_H
+#define PRIMS_ALG_H
 
 #include <stdio.h>
 

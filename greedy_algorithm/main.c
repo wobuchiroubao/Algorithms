@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "greedy_algoritm.h"
+#include "greedy_algorithm.h"
 
 int main(int argc, char** argv)
 {

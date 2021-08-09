@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <limits.h>
 
-#include "krascal_algoritm.h"
+#include "krascal_algorithm.h"
 
 //----------------------
 
